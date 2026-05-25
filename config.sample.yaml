@@ -1,7 +1,7 @@
 ---
 # After you have replaced all the __CHANGE_ME__ values in this file, you need to
 # run `make auth` to setup the Auth.
-tre_id: __CHANGE_ME__
+tre_id: __CHANGE_ME___
 location: __CHANGE_ME__
 management:
   mgmt_resource_group_name: __CHANGE_ME__
