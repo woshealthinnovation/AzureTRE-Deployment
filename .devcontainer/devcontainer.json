@@ -19,7 +19,7 @@
       "DOCKER_GROUP_ID": "${localEnv:DOCKER_GROUP_ID}",
       "INTERACTIVE": "true",
       "UPSTREAM_REPO": "woshealthinnovation/AzureTRE",
-      "UPSTREAM_REPO_VERSION": "v0.28.2",
+      "UPSTREAM_REPO_VERSION": "v0.28.3",
       "GITHUB_TOKEN": ""
     }
   },
